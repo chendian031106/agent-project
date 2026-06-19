@@ -1,0 +1,123 @@
+2026-06-16 13:47:33 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:47:33 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: C:\Users\ZhuanZ1\AppData\Local\Temp\tmpnihygxhf | 中文字体: CN_msyh
+2026-06-16 13:47:33 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:47:33 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: data\output | 中文字体: CN_msyh
+2026-06-16 13:47:33 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:47:33 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: data\output | 中文字体: CN_msyh
+2026-06-16 13:47:34 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:47:34 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: data\output | 中文字体: CN_msyh
+2026-06-16 13:47:34 | INFO     | tools.pdf_generator:generate_pdf_impl:707 - [PDF] 开始生成: C:\Users\ZhuanZ1\AppData\Local\Temp\tmphwmz2y7n\测试博主-测试视频标题-2024-06-11T10_30_00.pdf
+2026-06-16 13:47:34 | ERROR    | tools.pdf_generator:generate_pdf_impl:734 - [PDF] 生成失败: ValueError: <Table@0x1BB7ACED2B0 1 rows x 1 cols(tallest row 24)> with cell(0,0) containing
+'<Paragraph at 0x1bb7ac75850>负面 (中性)': flowable given negative availWidth=-12.0 width=0.0 - leftPadding=6 - rightPadding=6
+2026-06-16 13:47:34 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:47:34 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: data\output | 中文字体: CN_msyh
+2026-06-16 13:47:34 | INFO     | tools.pdf_generator:generate_batch_pdf_impl:763 - [PDF] 开始生成批量报告: C:\Users\ZhuanZ1\AppData\Local\Temp\tmprmssezsu\批量测试报告-20260616_134734.pdf (3 个视频)
+2026-06-16 13:47:34 | ERROR    | tools.pdf_generator:generate_batch_pdf_impl:801 - [PDF] 批量报告生成失败: ValueError: <Table@0x1BB7AC276F0 1 rows x 1 cols(tallest row 24)> with cell(0,0) containing
+'<Paragraph at 0x1bb7acce890>负面 (中性)': flowable given negative availWidth=-12.0 width=0.0 - leftPadding=6 - rightPadding=6
+2026-06-16 13:47:34 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:47:34 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: data\output | 中文字体: CN_msyh
+2026-06-16 13:47:34 | INFO     | tools.pdf_generator:generate_pdf_impl:707 - [PDF] 开始生成: C:\Users\ZhuanZ1\AppData\Local\Temp\tmp4vb6oebn\未知博主-最小报告-20260616.pdf
+2026-06-16 13:47:34 | ERROR    | tools.pdf_generator:generate_pdf_impl:734 - [PDF] 生成失败: ValueError: <Table@0x1BB7AC27BB0 1 rows x 1 cols(tallest row 24)> with cell(0,0) containing
+'<Paragraph at 0x1bb7acce190>负面 (中性)': flowable given negative availWidth=-12.0 width=0.0 - leftPadding=6 - rightPadding=6
+2026-06-16 13:47:34 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:47:34 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: data\output | 中文字体: CN_msyh
+2026-06-16 13:47:34 | INFO     | tools.pdf_generator:generate_pdf_impl:707 - [PDF] 开始生成: C:\Users\ZhuanZ1\AppData\Local\Temp\tmpzwxkql7u\测试博主-单元测试报告-2024-06-11.pdf
+2026-06-16 13:47:34 | INFO     | tools.pdf_generator:generate_pdf_impl:730 - [PDF] 生成成功: C:\Users\ZhuanZ1\AppData\Local\Temp\tmpzwxkql7u\测试博主-单元测试报告-2024-06-11.pdf
+2026-06-16 13:47:35 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:47:35 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: data\output | 中文字体: CN_msyh
+2026-06-16 13:47:35 | INFO     | tools.pdf_generator:generate_pdf_impl:707 - [PDF] 开始生成: C:\Users\ZhuanZ1\AppData\Local\Temp\tmp256pa7en\作者-含附录报告-20260616.pdf
+2026-06-16 13:47:35 | ERROR    | tools.pdf_generator:generate_pdf_impl:734 - [PDF] 生成失败: ValueError: <Table@0x1BB7AC27A80 1 rows x 1 cols(tallest row 24)> with cell(0,0) containing
+'<Paragraph at 0x1bb7acce270>负面 (中性)': flowable given negative availWidth=-12.0 width=0.0 - leftPadding=6 - rightPadding=6
+2026-06-16 13:47:35 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:47:35 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: data\output | 中文字体: CN_msyh
+2026-06-16 13:47:35 | INFO     | tools.pdf_generator:generate_pdf_impl:707 - [PDF] 开始生成: C:\Users\ZhuanZ1\AppData\Local\Temp\tmpn_h96ujg\nonexistent\subdir\未知博主-测试-20260616.pdf
+2026-06-16 13:47:35 | ERROR    | tools.pdf_generator:generate_pdf_impl:734 - [PDF] 生成失败: ValueError: <Table@0x1BB7AC27A80 1 rows x 1 cols(tallest row 24)> with cell(0,0) containing
+'<Paragraph at 0x1bb7accdfd0>负面 (中性)': flowable given negative availWidth=-12.0 width=0.0 - leftPadding=6 - rightPadding=6
+2026-06-16 13:47:35 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:47:35 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: data\output | 中文字体: CN_msyh
+2026-06-16 13:47:35 | INFO     | tools.pdf_generator:generate_pdf_impl:707 - [PDF] 开始生成: C:\Users\ZhuanZ1\AppData\Local\Temp\tmpbps9qc5_\未知博主-分析报告-20260616.pdf
+2026-06-16 13:47:35 | ERROR    | tools.pdf_generator:generate_pdf_impl:734 - [PDF] 生成失败: ValueError: <Table@0x1BB7AC269E0 1 rows x 1 cols(tallest row 24)> with cell(0,0) containing
+'<Paragraph at 0x1bb7accf5b0>负面 (中性)': flowable given negative availWidth=-12.0 width=0.0 - leftPadding=6 - rightPadding=6
+2026-06-16 13:54:05 | ERROR    | tools.analyzer:summarize_content:90 - [tool:summarize_content] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:54:05 | ERROR    | tools.analyzer:extract_keywords:131 - [tool:extract_keywords] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:54:06 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:54:06 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: data\output | 中文字体: CN_msyh
+2026-06-16 13:54:06 | INFO     | tools.pdf_generator:generate_pdf_impl:707 - [PDF] 开始生成: C:\Users\ZhuanZ1\Documents\trae_projects\douyin-crew\data\pdfs\测试-冒烟测试报告-20260616.pdf
+2026-06-16 13:54:06 | INFO     | tools.pdf_generator:generate_pdf_impl:730 - [PDF] 生成成功: C:\Users\ZhuanZ1\Documents\trae_projects\douyin-crew\data\pdfs\测试-冒烟测试报告-20260616.pdf
+2026-06-16 13:54:06 | INFO     | workflow.content_analysis:analyze:256 - [workflow] ContentAnalysisWorkflow 开始分析（文本长度: 25 字符）
+2026-06-16 13:54:06 | INFO     | workflow.content_analysis:_summarize:70 - [workflow] 开始生成摘要（文本长度: 25 字符）
+2026-06-16 13:54:06 | ERROR    | tools.analyzer:summarize_content:90 - [tool:summarize_content] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:54:06 | INFO     | workflow.content_analysis:_extract_keywords:86 - [workflow] 开始提取关键词
+2026-06-16 13:54:06 | ERROR    | tools.analyzer:extract_keywords:131 - [tool:extract_keywords] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:54:06 | INFO     | workflow.content_analysis:_extract_entities:102 - [workflow] 开始实体识别
+2026-06-16 13:54:06 | ERROR    | tools.analyzer:extract_entities:173 - [tool:extract_entities] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:54:06 | INFO     | workflow.content_analysis:_analyze_sentiment:118 - [workflow] 开始情感分析
+2026-06-16 13:54:06 | ERROR    | tools.analyzer:analyze_sentiment:229 - [tool:analyze_sentiment] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:54:06 | INFO     | workflow.content_analysis:_categorize:138 - [workflow] 开始内容分类
+2026-06-16 13:54:06 | ERROR    | tools.analyzer:categorize_content:277 - [tool:categorize_content] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:54:06 | INFO     | workflow.content_analysis:analyze:258 - [workflow] ContentAnalysisWorkflow 分析完成
+2026-06-16 13:54:06 | INFO     | workflow.video_processing:run:548 - [workflow] VideoProcessingWorkflow 开始运行 | url=https://www.douyin.com/video/123456789 | douyin_id=
+2026-06-16 13:54:06 | INFO     | workflow.video_processing:_download_video:60 - [workflow] 开始下载: url=https://www.douyin.com/video/123456789
+2026-06-16 13:54:06 | INFO     | tools.douyin_crawler:__init__:89 - DouyinCrawler 初始化完成 | 存储路径: data\videos | Cookie: 未配置 | 最大重试: 3
+2026-06-16 13:54:06 | INFO     | tools.douyin_crawler:crawl_videos_impl:318 - [爬取] 开始 | douyin_id=, count=1
+2026-06-16 13:54:06 | INFO     | tools.douyin_crawler:crawl_videos_impl:326 - [爬取] 解析URL: https://www.douyin.com/user/
+2026-06-16 13:54:15 | WARNING  | tools.douyin_crawler:crawl_videos_impl:338 - [爬取] 扁平提取失败，尝试完整提取: ERROR: Unsupported URL: https://www.douyin.com/user/
+2026-06-16 13:54:16 | ERROR    | tools.douyin_crawler:crawl_videos_impl:396 - [爬取] 异常: DownloadError: ERROR: Unsupported URL: https://www.douyin.com/user/
+2026-06-16 13:54:16 | INFO     | workflow.video_processing:run:550 - [workflow] VideoProcessingWorkflow 运行完成
+2026-06-16 13:56:22 | ERROR    | tools.analyzer:summarize_content:90 - [tool:summarize_content] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:56:22 | ERROR    | tools.analyzer:extract_keywords:131 - [tool:extract_keywords] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:56:22 | DEBUG    | tools.pdf_generator:_setup_chinese_font:261 - 已注册中文字体: CN_msyh (C:/Windows/Fonts/msyh.ttc)
+2026-06-16 13:56:22 | INFO     | tools.pdf_generator:__init__:231 - PDFGenerator 初始化完成 | 输出目录: data\output | 中文字体: CN_msyh
+2026-06-16 13:56:22 | INFO     | tools.pdf_generator:generate_pdf_impl:707 - [PDF] 开始生成: C:\Users\ZhuanZ1\Documents\trae_projects\douyin-crew\data\pdfs\测试-冒烟测试报告-20260616.pdf
+2026-06-16 13:56:22 | INFO     | tools.pdf_generator:generate_pdf_impl:730 - [PDF] 生成成功: C:\Users\ZhuanZ1\Documents\trae_projects\douyin-crew\data\pdfs\测试-冒烟测试报告-20260616.pdf
+2026-06-16 13:56:22 | INFO     | workflow.content_analysis:analyze:256 - [workflow] ContentAnalysisWorkflow 开始分析（文本长度: 25 字符）
+2026-06-16 13:56:22 | INFO     | workflow.content_analysis:_summarize:70 - [workflow] 开始生成摘要（文本长度: 25 字符）
+2026-06-16 13:56:22 | ERROR    | tools.analyzer:summarize_content:90 - [tool:summarize_content] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:56:22 | INFO     | workflow.content_analysis:_extract_keywords:86 - [workflow] 开始提取关键词
+2026-06-16 13:56:22 | ERROR    | tools.analyzer:extract_keywords:131 - [tool:extract_keywords] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:56:22 | INFO     | workflow.content_analysis:_extract_entities:102 - [workflow] 开始实体识别
+2026-06-16 13:56:22 | ERROR    | tools.analyzer:extract_entities:173 - [tool:extract_entities] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:56:22 | INFO     | workflow.content_analysis:_analyze_sentiment:118 - [workflow] 开始情感分析
+2026-06-16 13:56:23 | ERROR    | tools.analyzer:analyze_sentiment:229 - [tool:analyze_sentiment] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:56:23 | INFO     | workflow.content_analysis:_categorize:138 - [workflow] 开始内容分类
+2026-06-16 13:56:23 | ERROR    | tools.analyzer:categorize_content:277 - [tool:categorize_content] 执行失败: AuthenticationError: Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****_key is invalid', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-06-16 13:56:23 | INFO     | workflow.content_analysis:analyze:258 - [workflow] ContentAnalysisWorkflow 分析完成
+2026-06-16 13:56:23 | INFO     | workflow.video_processing:run:548 - [workflow] VideoProcessingWorkflow 开始运行 | url=https://www.douyin.com/video/123456789 | douyin_id=
+2026-06-16 13:56:23 | INFO     | workflow.video_processing:_download_video:60 - [workflow] 开始下载: url=https://www.douyin.com/video/123456789
+2026-06-16 13:56:23 | INFO     | tools.douyin_crawler:__init__:89 - DouyinCrawler 初始化完成 | 存储路径: data\videos | Cookie: 未配置 | 最大重试: 3
+2026-06-16 13:56:23 | INFO     | tools.douyin_crawler:crawl_videos_impl:318 - [爬取] 开始 | douyin_id=, count=1
+2026-06-16 13:56:23 | INFO     | tools.douyin_crawler:crawl_videos_impl:326 - [爬取] 解析URL: https://www.douyin.com/user/
+2026-06-16 13:56:25 | WARNING  | tools.douyin_crawler:crawl_videos_impl:338 - [爬取] 扁平提取失败，尝试完整提取: ERROR: Unsupported URL: https://www.douyin.com/user/
+2026-06-16 13:56:27 | ERROR    | tools.douyin_crawler:crawl_videos_impl:396 - [爬取] 异常: DownloadError: ERROR: Unsupported URL: https://www.douyin.com/user/
+2026-06-16 13:56:27 | INFO     | workflow.video_processing:run:550 - [workflow] VideoProcessingWorkflow 运行完成
+2026-06-16 14:25:18 | ERROR    | database.session:init_db:15 - 数据库初始化失败: 'utf-8' codec can't decode byte 0xd6 in position 61: invalid continuation byte
+2026-06-16 14:25:18 | ERROR    | api.main:startup_event:29 - 数据库初始化失败: 'utf-8' codec can't decode byte 0xd6 in position 61: invalid continuation byte
+2026-06-16 14:48:49 | ERROR    | database.session:init_db:15 - 数据库初始化失败: 'utf-8' codec can't decode byte 0xd6 in position 61: invalid continuation byte
+2026-06-16 14:48:49 | ERROR    | api.main:startup_event:29 - 数据库初始化失败: 'utf-8' codec can't decode byte 0xd6 in position 61: invalid continuation byte
+2026-06-16 15:52:31 | WARNING  | tools.speech_to_text:__init__:19 - [SpeechToText] 使用存根实现，需接入真实 ASR 服务
+2026-06-16 15:52:31 | WARNING  | tools.ocr_service:__init__:19 - [OCRService] 使用存根实现，需接入真实 OCR 服务
+2026-06-16 15:53:12 | WARNING  | tools.speech_to_text:__init__:19 - [SpeechToText] 使用存根实现，需接入真实 ASR 服务
+2026-06-16 15:53:12 | WARNING  | tools.ocr_service:__init__:19 - [OCRService] 使用存根实现，需接入真实 OCR 服务
+2026-06-16 15:54:33 | WARNING  | tools.speech_to_text:__init__:16 - [SpeechToText] 使用存根实现，需接入真实 ASR 服务
+2026-06-16 15:54:33 | WARNING  | tools.ocr_service:__init__:16 - [OCRService] 使用存根实现，需接入真实 OCR 服务
+2026-06-16 16:30:39 | WARNING  | tools.speech_to_text:__init__:16 - [SpeechToText] 使用存根实现，需接入真实 ASR 服务
+2026-06-16 16:30:39 | WARNING  | tools.ocr_service:__init__:16 - [OCRService] 使用存根实现，需接入真实 OCR 服务
+2026-06-16 16:50:42 | WARNING  | tools.speech_to_text:__init__:16 - [SpeechToText] 使用存根实现，需接入真实 ASR 服务
+2026-06-16 16:50:42 | WARNING  | tools.ocr_service:__init__:16 - [OCRService] 使用存根实现，需接入真实 OCR 服务
+2026-06-16 18:36:19 | DEBUG    | database.vector_store:preprocess_text:74 - 预处理: 48 chars → 37 chars (去重 11 chars)
+2026-06-16 18:36:19 | DEBUG    | database.vector_store:preprocess_text:74 - 预处理: 161 chars → 78 chars (去重 83 chars)
+2026-06-16 18:44:32 | INFO     | tools.rag_engine:__init__:138 - RAGEngine 初始化完成 | 分块大小: 500 | 重叠: 50
+2026-06-16 18:44:51 | WARNING  | tools.speech_to_text:__init__:16 - [SpeechToText] 使用存根实现，需接入真实 ASR 服务
+2026-06-16 18:44:51 | WARNING  | tools.ocr_service:__init__:16 - [OCRService] 使用存根实现，需接入真实 OCR 服务
+2026-06-16 18:48:31 | WARNING  | tools.speech_to_text:__init__:16 - [SpeechToText] 使用存根实现，需接入真实 ASR 服务
+2026-06-16 18:48:31 | WARNING  | tools.ocr_service:__init__:16 - [OCRService] 使用存根实现，需接入真实 OCR 服务
+2026-06-16 18:50:52 | WARNING  | tools.speech_to_text:__init__:16 - [SpeechToText] 使用存根实现，需接入真实 ASR 服务
+2026-06-16 18:50:52 | WARNING  | tools.ocr_service:__init__:16 - [OCRService] 使用存根实现，需接入真实 OCR 服务
+2026-06-16 18:50:52 | WARNING  | agents.rag_agent:_create_checkpointer:64 - PostgresSaver 创建失败（将在无记忆模式下运行）: invalid connection option "postgresql+psycopg2://postgres:Postgre123@localhost:5432/douyin_crew?client_encoding"
+
+2026-06-16 18:51:28 | WARNING  | agents.rag_agent:_create_checkpointer:67 - PostgresSaver 创建失败（将在无记忆模式下运行）: connection failed: connection to server at "127.0.0.1", port 5432 failed: ��������:  ���ݿ� "douyin_crew" ������
+Multiple connection attempts failed. All failures were:
+- host: 'localhost', port: '5432', hostaddr: '::1': connection failed: connection to server at "::1", port 5432 failed: ��������:  ���ݿ� "douyin_crew" ������
+- host: 'localhost', port: '5432', hostaddr: '127.0.0.1': connection failed: connection to server at "127.0.0.1", port 5432 failed: ��������:  ���ݿ� "douyin_crew" ������
+2026-06-16 19:32:58 | INFO     | database.session:init_db:60 - 数据库表创建成功
+2026-06-16 19:51:19 | INFO     | tools.speech_to_text:_get_whisper_model:20 - [SpeechToText] 加载 faster-whisper 模型: base
